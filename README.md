@@ -63,8 +63,7 @@ endmodule
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Screenshot 2024-12-03 133059](https://github.com/user-attachments/assets/96680291-4b65-4499-8e1f-75289a38c34b)
-
+![Screenshot 2025-01-01 150218](https://github.com/user-attachments/assets/c306e2de-bf57-4eb2-9316-fe9fa25dd930)
 
 **RESULTS**
 T FLIPFLOP VERIFIED SUCCESSFULLY
